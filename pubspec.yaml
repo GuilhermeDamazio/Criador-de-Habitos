@@ -1,0 +1,34 @@
+name: projeto
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/Palmeiras_logo.svg.png
+    - assets/images/google.png
+    - assets/images/facebook.png
+    - assets/images/parabens.jpeg
+    - assets/images/icon.png
+    - assets/images/habitIcon.png
+    - assets/images/settings.png
+    - assets/images/welcome_screen.jpg
+    - assets/images/teste.jpg
+    - assets/images/signup_screen.jpg
+    - assets/images/user_config.png
+    - assets/images/home_icon.png
