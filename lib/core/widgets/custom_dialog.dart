@@ -26,7 +26,7 @@ class CustomSuccessDialog extends StatelessWidget {
                 Column(
                   children: [
                     Image.asset(
-                      'assets/images/parabens.jpeg',
+                      'assets/images/sucess_image.png',
                       height: 160,
                     ),
                     const SizedBox(height: 16),
